@@ -6,15 +6,15 @@ from pathlib import Path
 def show_homepage():
     # Sidebar
     st.sidebar.image("images/assurance.jpg", width=120)
-    st.sidebar.title("Navigation")
-    st.sidebar.markdown("""
-    - [Connexion aux données](1_🔌_connexion_données.py)
-    - [Analyse exploratoire](2_🔍_Analyse_exploratoire_des_données.py)
-    - [Modélisation GLM](3_📈_Modélisation_GLM.py)
-    - [Simulateur](4_📊_Simulateur_tarification.py)
-    - [Dashboard](6_📊_Dashboard_Interactif.py)
-    - [Optimisation](10_💼_Optimisation_portefeuille.py)
-    """, unsafe_allow_html=True)
+    #st.sidebar.title("Navigation")
+    #st.sidebar.markdown("""
+    #- [Connexion aux données](1_🔌_connexion_données.py)
+    #- [Analyse exploratoire](2_🔍_Analyse_exploratoire_des_données.py)
+    #- [Modélisation GLM](3_📈_Modélisation_GLM.py)
+    #- [Simulateur](4_📊_Simulateur_tarification.py)
+    #- [Dashboard](6_📊_Dashboard_Interactif.py)
+    #- [Optimisation](10_💼_Optimisation_portefeuille.py)
+    #""", unsafe_allow_html=True)
 
     # Bannère
     st.image("images/actuariat.jpg", use_column_width=True)

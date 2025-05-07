@@ -30,6 +30,14 @@ Une application professionnelle Streamlit pour explorer, modéliser et optimiser
 ![Optimisation](images/Optimisation2.png)
 
 ---
+## 🎥 Démo vidéo de l'application
+
+Découvrez le fonctionnement de l’application en action :  
+[![Voir la vidéo](https://img.youtube.com/vi/7qu-5upbrI8/0.jpg)](https://youtu.be/7qu-5upbrI8)
+
+> 🔗 https://youtu.be/7qu-5upbrI8
+
+---
 
 ## 🛠 Installation & Exécution
 
@@ -70,14 +78,6 @@ streamlit run application.py
 
 ---
 
-## 🚀 Déploiement en ligne (Streamlit Cloud)
-
-1. Pousser le projet sur GitHub
-2. Aller sur [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Créer une nouvelle app via le repo GitHub
-4. Ajouter un fichier `.streamlit/secrets.toml` si tu utilises des connexions à une BDD
-
----
 
 ## 🧠 Auteure
 
